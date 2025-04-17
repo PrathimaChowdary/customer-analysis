@@ -4,6 +4,7 @@ README
 
 ## Project Overview
 This project focuses on analyzing customer data for business insights. It involves exploring datasets, performing data wrangling, and visualizing key metrics to uncover trends that can influence business decisions.
+"I started by cleaning the data using Pandas, then ran exploratory analysis".
 
 ## Data
 The data for this project is from a fictional customer database. It includes:
