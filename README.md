@@ -1,6 +1,5 @@
-# customer-analysis
+# Project Title: Customer-Analysis using Python
 README
-# Customer Data Analysis Project
 
 ## Project Overview
 This project focuses on analyzing customer data for business insights. It involves exploring datasets, performing data wrangling, and visualizing key metrics to uncover trends that can influence business decisions.
